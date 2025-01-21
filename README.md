@@ -2,5 +2,7 @@
 
 programming games in godot and a little C#
 
-<p xmlns:cc="http://creativecommons.org/ns#" >All of my work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a><p>unless otherwise stated</p></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >All of my work is licensed under <strong>The MIT License</strong><p> unless otherwise stated.</p></p>
+
+<img src="https://toru.kio.dev/api/v1/{mextie}" alt="Last.fm Activity" />
 
