@@ -2,7 +2,7 @@
 
 programming games in godot and a little C#
 
-<p xmlns:cc="http://creativecommons.org/ns#" >All of my work is licensed under <strong>The MIT License</strong><p> unless otherwise stated.</p></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >All of my work is licensed under <strong>The MIT License</strong> unless otherwise stated.</p>
 
 
 <h3>Currently listening to:</h3>
